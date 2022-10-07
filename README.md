@@ -8,7 +8,7 @@
 # How to Julia
 * [A Gentle Introduction to Julia](https://www.youtube.com/watch?v=4igzy3bGVkQ&list=PLP8iPy9hna6SCcFv3FvY_qjAmtTsNYHQE)
 * [Julia Tutorials by Julia Academy](https://github.com/JuliaAcademy/JuliaTutorials)
-* [Julia for Data Science
+* Julia for Data Science
   * [Notebook](https://github.com/JuliaAcademy/DataScience)
   * [Youtube](https://www.youtube.com/watch?v=oyx8M1yoboY&list=PLP8iPy9hna6SCcFv3FvY_qjAmtTsNYHQE&index=2)
 * [Julia for Machine learning](https://github.com/JuliaAcademy/Foundations-of-Machine-Learning)
