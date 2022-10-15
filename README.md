@@ -15,3 +15,6 @@
 
 # Optimization Tool
 * [JuMP](https://jump.dev/JuMP.jl/stable/)
+
+# How to Make Slides
+* [RISE](https://github.com/damianavila/RISE) 
