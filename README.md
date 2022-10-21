@@ -1,3 +1,8 @@
+# Why Julia
+* [MIT 18.065 Lecture 36 by Alan Edelman](https://www.youtube.com/watch?v=rZS2LGiurKY)
+* ["Why Does Julia Work So Well?" by UCI Data Science Initiative](http://ucidatascienceinitiative.github.io/IntroToJulia/Html/WhyJulia)
+* [Why Julia by Julia Data Science](https://juliadatascience.io/programmers#sec:programmers)
+
 # Launch Julia
 * [Download Julia](https://julialang.org/downloads/)
 * [Julia Official Documentation](https://docs.julialang.org/en/v1/)
