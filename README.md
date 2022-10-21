@@ -23,3 +23,5 @@
 
 # How to Make Slides
 * [RISE](https://github.com/damianavila/RISE) 
+* [nbconvert](https://nbconvert.readthedocs.io/en/latest/usage.html#convert-revealjs)
+`jupyter nbconvert notebook.ipynb --to slides --reveal-prefix reveal.js --post serve`
